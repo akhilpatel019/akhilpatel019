@@ -32,16 +32,14 @@
 
 </div>
 
-```js
-const akhil = {
+<script>const akhil = {
   role: "Frontend & Shopify / WordPress Developer",
   location: "Rajkot, Gujarat 🇮🇳",
   philosophy: "Clean code. Premium feel. Zero compromise.",
   currentlyLearning: ["Shopify (Liquid)", "GSAP", "Advanced JavaScript"],
   buildsWith: ["HTML", "CSS", "JavaScript", "Elementor", "Divi"],
   lookingFor: "Teams that care about craft — in India or remote.",
-};
-```
+};</script>
 
 <br/>
 
