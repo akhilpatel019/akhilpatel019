@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a1a,100:D4AF37&height=230&section=header&text=Akhil%20Patel&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20%C2%B7%20Shopify%20%C2%B7%20WordPress%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Akhil Patel banner" />
 
-<a href="https://git.io/typing-svg">
+<a href="https://akhil-patel.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=640&lines=Crafting+pixel-perfect+web+experiences;Shopify+storefronts+that+actually+convert;WordPress+builds+with+clean%2C+fast+code;Animations+with+GSAP+that+feel+premium" alt="Typing animation" />
 </a>
 
@@ -30,16 +30,36 @@
 
 ### ✦ &nbsp;ABOUT&nbsp; ✦
 
-</div>
+<br/>
 
-<script>const akhil = {
-  role: "Frontend & Shopify / WordPress Developer",
-  location: "Rajkot, Gujarat 🇮🇳",
-  philosophy: "Clean code. Premium feel. Zero compromise.",
-  currentlyLearning: ["Shopify (Liquid)", "GSAP", "Advanced JavaScript"],
-  buildsWith: ["HTML", "CSS", "JavaScript", "Elementor", "Divi"],
-  lookingFor: "Teams that care about craft — in India or remote.",
-};</script>
+<table>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/ROLE-0D1117?style=flat-square&labelColor=D4AF37&color=0D1117" /></td>
+    <td align="left"><b>Frontend & Shopify / WordPress Developer</b></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/LOCATION-0D1117?style=flat-square&labelColor=D4AF37&color=0D1117" /></td>
+    <td align="left">Rajkot, Gujarat, India</td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/PHILOSOPHY-0D1117?style=flat-square&labelColor=D4AF37&color=0D1117" /></td>
+    <td align="left"><i>Clean code. Premium feel. Zero compromise.</i></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/LEARNING-0D1117?style=flat-square&labelColor=D4AF37&color=0D1117" /></td>
+    <td align="left">Shopify (Liquid) &nbsp;·&nbsp; GSAP &nbsp;·&nbsp; Advanced JavaScript</td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/BUILDS%20WITH-0D1117?style=flat-square&labelColor=D4AF37&color=0D1117" /></td>
+    <td align="left">HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Elementor &nbsp;·&nbsp; Divi</td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/LOOKING%20FOR-0D1117?style=flat-square&labelColor=D4AF37&color=0D1117" /></td>
+    <td align="left">Teams that care about craft, in India or remote</td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
