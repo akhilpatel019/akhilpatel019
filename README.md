@@ -1,23 +1,17 @@
 <div align="center">
 
-# Akhil Patel
-
-### Frontend & Shopify | WordPress Developer
-
-I build responsive, user-friendly websites and ecommerce experiences, turning design concepts into functional, maintainable code.
+<img src="assets/banner.svg" alt="Akhil Patel - Frontend, Shopify and WordPress Developer" width="100%">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akhil--patel.netlify.app-3FB950?style=for-the-badge&labelColor=161B22)](https://akhil-patel.netlify.app/)
 [![WordPress Portfolio](https://img.shields.io/badge/WordPress_Work-akhilwpdev.rf.gd-58A6FF?style=for-the-badge&labelColor=161B22)](https://akhilwpdev.rf.gd/)
 
 </div>
 
----
-
 ## About Me
 
 I'm a frontend and website developer focused on building responsive, modern, and functional websites. My work spans custom HTML/CSS/JavaScript layouts, Shopify storefronts and landing pages, and WordPress sites built with Elementor and Divi.
 
-I enjoy solving layout and functionality problems, improving my workflow, and learning new tools along the way.
+I enjoy solving layout and functionality problems, improving my workflow, and turning design concepts into working websites.
 
 ## What I Do
 
@@ -30,24 +24,16 @@ I enjoy solving layout and functionality problems, improving my workflow, and le
 
 ## Technical Skills
 
-**Frontend**
-`HTML5` `CSS3` `JavaScript` `Bootstrap 5` `jQuery` `AJAX` `Responsive Design`
-
-**Shopify**
-`Shopify Liquid` `Online Store 2.0` `Theme Customization` `Sections & Snippets` `Shopify CLI` `Replo` `Instant`
-
-**WordPress**
-`Elementor` `Divi` `Theme Customization` `Contact Form 7` `Basic PHP`
-
-**Tools**
-`Git` `GitHub` `VS Code` `Google Antigravity` `GSAP` `Basic Python`
+<img src="assets/skills.svg" alt="Skills: Frontend (HTML5, CSS3, JavaScript, jQuery, AJAX, Bootstrap 5); Shopify (Liquid, Online Store 2.0, sections and snippets, theme customization, Shopify CLI, Replo, Instant); WordPress (Elementor, Divi, theme customization, Contact Form 7, basic PHP); Tools (Git, GitHub, VS Code, Google Antigravity, GSAP, basic Python)" width="100%">
 
 ## Featured Work
 
-| Project | Description |
-| :-- | :-- |
-| [**Developer Portfolio**](https://akhil-patel.netlify.app/) | My main portfolio: selected work, skills and contact details. |
-| [**WordPress Portfolio**](https://akhilwpdev.rf.gd/) | A second portfolio presenting my WordPress development work. |
+<table>
+<tr>
+<td width="50%"><a href="https://akhil-patel.netlify.app/"><img src="assets/developer-portfolio.svg" alt="Developer Portfolio - akhil-patel.netlify.app" width="100%"></a></td>
+<td width="50%"><a href="https://akhilwpdev.rf.gd/"><img src="assets/wordpress-portfolio.svg" alt="WordPress Portfolio - akhilwpdev.rf.gd" width="100%"></a></td>
+</tr>
+</table>
 
 More repositories are on my [GitHub profile](https://github.com/akhilpatel019?tab=repositories).
 
