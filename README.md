@@ -1,136 +1,163 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:161B22,100:3FB950&text=Akhil%20Patel&fontColor=F0F6FC&fontSize=56&fontAlignY=38&desc=Frontend%20%26%20Shopify%20%7C%20WordPress%20Developer&descColor=58A6FF&descSize=20&descAlignY=60" alt="Akhil Patel - Frontend, Shopify and WordPress Developer" width="100%">
-
-**Responsive websites and ecommerce experiences, built to be maintained.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-akhil--patel.netlify.app-3FB950?style=for-the-badge&labelColor=161B22)](https://akhil-patel.netlify.app/)
-[![WordPress Portfolio](https://img.shields.io/badge/WordPress_Work-akhilwpdev.rf.gd-58A6FF?style=for-the-badge&labelColor=161B22)](https://akhilwpdev.rf.gd/)
-[![GitHub](https://img.shields.io/badge/GitHub-akhilpatel019-F0F6FC?style=for-the-badge&logo=github&logoColor=F0F6FC&labelColor=161B22)](https://github.com/akhilpatel019)
-
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:161B22,100:238636&text=Akhil%20Patel&fontColor=F0F6FC&fontSize=58&fontAlignY=38&desc=Frontend%20%7C%20Shopify%20%7C%20WordPress%20Developer&descColor=58A6FF&descSize=19&descAlignY=60" width="100%" alt="Akhil Patel - Frontend, Shopify and WordPress Developer" />
+  
+  <h2>Building Modern Websites & Ecommerce Experiences</h2>
+  
+  <p>
+    I turn ideas into responsive, functional and engaging digital experiences.
+  </p>
+  
+  <a href="https://akhil-patel.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/akhilpatel019">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/akhilpatel019?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Work-161B22?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
+  </a>
 </div>
+
+---
 
 ## About Me
 
-I'm a frontend and website developer focused on building responsive, modern, and functional websites. My work spans custom HTML/CSS/JavaScript layouts, Shopify storefronts and landing pages, and WordPress sites built with Elementor and Divi.
+Hey! I'm **Akhil Patel**, a developer focused on frontend development, Shopify and WordPress.
 
-I enjoy solving layout and functionality problems, improving my workflow, and turning design concepts into working websites.
+I enjoy building responsive websites, customizing ecommerce experiences and transforming design concepts into functional web interfaces.
+
+My development approach focuses on:
+
+- Writing clean, maintainable and reusable code.
+- Creating responsive layouts for different screen sizes.
+- Building and customizing Shopify storefronts.
+- Developing WordPress websites with Elementor and Divi.
+- Improving website performance, usability and functionality.
+- Continuously learning modern frontend technologies.
 
 ## What I Do
 
-| Area | Practical experience |
-| :-- | :-- |
-| **Frontend** | Responsive layouts with HTML, CSS, Bootstrap and JavaScript; reusable components and clean code |
-| **Shopify** | Storefront and landing page customization; Liquid, sections, snippets and theme structure; page builders such as Replo and Instant |
-| **WordPress** | Site building and customization with Elementor and Divi; forms with Contact Form 7; light PHP edits |
-| **Quality** | Improving layout, responsiveness, performance and functionality on existing sites |
-
-## Technical Skills
-
 <table>
-<tr>
-<td width="25%" valign="top">
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3)
-![jQuery](https://img.shields.io/badge/jQuery-161B22?style=flat-square&logo=jquery&logoColor=0769AD)
-![AJAX](https://img.shields.io/badge/AJAX-161B22?style=flat-square&logoColor=white)
-
-</td>
-<td width="25%" valign="top">
-
-**Shopify**
-
-![Shopify](https://img.shields.io/badge/Shopify-161B22?style=flat-square&logo=shopify&logoColor=95BF47)
-![Liquid](https://img.shields.io/badge/Liquid-161B22?style=flat-square&logo=liquid&logoColor=white)
-![Online Store 2.0](https://img.shields.io/badge/Online_Store_2.0-161B22?style=flat-square&logoColor=white)
-![Shopify CLI](https://img.shields.io/badge/Shopify_CLI-161B22?style=flat-square&logoColor=white)
-![Replo](https://img.shields.io/badge/Replo-161B22?style=flat-square&logoColor=white)
-![Instant](https://img.shields.io/badge/Instant-161B22?style=flat-square&logoColor=white)
-
-</td>
-<td width="25%" valign="top">
-
-**WordPress**
-
-![WordPress](https://img.shields.io/badge/WordPress-161B22?style=flat-square&logo=wordpress&logoColor=21759B)
-![Elementor](https://img.shields.io/badge/Elementor-161B22?style=flat-square&logo=elementor&logoColor=92003B)
-![Divi](https://img.shields.io/badge/Divi-161B22?style=flat-square&logoColor=white)
-![Contact Form 7](https://img.shields.io/badge/Contact_Form_7-161B22?style=flat-square&logoColor=white)
-![Basic PHP](https://img.shields.io/badge/PHP_(basic)-161B22?style=flat-square&logo=php&logoColor=777BB4)
-
-</td>
-<td width="25%" valign="top">
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=F0F6FC)
-![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-161B22?style=flat-square&logo=google&logoColor=4285F4)
-![GSAP](https://img.shields.io/badge/GSAP-161B22?style=flat-square&logo=greensock&logoColor=88CE02)
-![Python](https://img.shields.io/badge/Python_(basic)-161B22?style=flat-square&logo=python&logoColor=3776AB)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Frontend Development</h3>
+      Building responsive and interactive interfaces using HTML, CSS, JavaScript and Bootstrap.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Shopify Development</h3>
+      Customizing Shopify storefronts, Liquid templates, theme sections, snippets and ecommerce landing pages.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>WordPress Development</h3>
+      Building and customizing websites using WordPress, Elementor, Divi and basic PHP.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Website Optimization</h3>
+      Improving responsiveness, layout consistency, performance and existing website functionality.
+    </td>
+  </tr>
 </table>
+
+## Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" alt="HTML, CSS, JavaScript, Bootstrap and jQuery" />
+</p>
+
+### Shopify & Ecommerce
+
+<p>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Liquid-22A7F0?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
+  <img src="https://img.shields.io/badge/Shopify_CLI-161B22?style=for-the-badge&logo=shopify&logoColor=95BF47" alt="Shopify CLI" />
+  <img src="https://img.shields.io/badge/Replo-161B22?style=for-the-badge" alt="Replo" />
+  <img src="https://img.shields.io/badge/Instant-161B22?style=for-the-badge" alt="Instant" />
+</p>
+
+### WordPress Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,php" alt="WordPress and PHP" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/Divi-6C2EB9?style=for-the-badge" alt="Divi" />
+  <img src="https://img.shields.io/badge/Contact_Form_7-161B22?style=for-the-badge" alt="Contact Form 7" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,python" alt="Git, GitHub, VS Code and Python" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-161B22?style=for-the-badge" alt="Google Antigravity" />
+</p>
 
 ## Featured Work
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### [Developer Portfolio](https://akhil-patel.netlify.app/)
-Main portfolio: selected work, skills and contact details.
-
-[akhil-patel.netlify.app](https://akhil-patel.netlify.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### [WordPress Portfolio](https://akhilwpdev.rf.gd/)
-Second portfolio presenting my WordPress development work.
-
-[akhilwpdev.rf.gd](https://akhilwpdev.rf.gd/)
-
-</td>
-</tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>Developer Portfolio</h3>
+      <p>
+        My personal developer portfolio showcasing my technical skills, development work and professional profile.
+      </p>
+      <a href="https://akhil-patel.netlify.app/">
+        <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio" />
+      </a>
+      <a href="https://github.com/akhilpatel019">
+        <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+      </a>
+    </td>
+  </tr>
 </table>
 
-More repositories are on my [GitHub profile](https://github.com/akhilpatel019?tab=repositories).
+Want to explore more? Check out my [GitHub repositories](https://github.com/akhilpatel019?tab=repositories).
 
-## GitHub Activity
+## GitHub Statistics
 
 <div align="center">
-
-[![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=akhilpatel019&bg_color=0D1117&color=58A6FF&line=3FB950&point=F0F6FC&area=true&hide_border=true)](https://github.com/akhilpatel019)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilpatel019&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=8B949E)](https://github.com/akhilpatel019)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpatel019&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/akhilpatel019)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilpatel019&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="Akhil's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpatel019&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="Most used programming languages" />
 </div>
 
-## Currently Learning
-
-- Advanced JavaScript
-- Shopify theme development and Liquid
-- GSAP animations
-- Modern frontend development
-- Interactive web experiences
-
-## Contact
-
-- **GitHub:** [github.com/akhilpatel019](https://github.com/akhilpatel019)
-- **Portfolio:** [akhil-patel.netlify.app](https://akhil-patel.netlify.app/)
-- **WordPress portfolio:** [akhilwpdev.rf.gd](https://akhilwpdev.rf.gd/)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=akhilpatel019&theme=github-dark-blue&hide_border=true" width="80%" alt="GitHub contribution streak" />
+</div>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilpatel019&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0f6fc&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:3FB950,50:161B22,100:0D1117" alt="" width="100%">
+## Currently Learning & Exploring
 
+I'm continuously improving my development skills and exploring new technologies.
+
+- Advanced JavaScript
+- Shopify Liquid and Theme Development
+- GSAP Animations
+- Modern Frontend Development
+- Interactive Web Experiences
+- Reusable Components and Better Development Practices
+
+## Let's Connect
+
+I'm always interested in connecting with developers, exploring interesting projects and learning new things.
+
+<div align="center">
+  <a href="https://akhil-patel.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/akhilpatel019">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <br/>
+  <i>"Build with curiosity. Improve with every project."</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:238636,50:161B22,100:0D1117" width="100%" alt="" />
 </div>
